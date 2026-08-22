@@ -1,12 +1,8 @@
 # Howdy, I'm Vedanth Dharnish
 
-Computer Science student in **Engineering Honors at Texas A&M** (class of 2028),
+I'm a Honors Computer Science student at Texas A&M** class of 2028,
 building AI-powered developer tools and researching adversarial machine
 learning.
-
-I like problems where the hard part is making something *reliable* rather than
-making it work once — debuggers, evaluation tooling, and systems that fail
-loudly instead of quietly.
 
 ---
 
