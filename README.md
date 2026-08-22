@@ -1,6 +1,6 @@
 # Howdy, I'm Vedanth Dharnish
 
-I'm a Honors Computer Science student at Texas A&M** class of 2028,
+I'm a Honors Computer Science student at Texas A&M University class of 2028,
 building AI-powered developer tools and researching adversarial machine
 learning.
 
